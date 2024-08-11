@@ -1,4 +1,4 @@
-# CS-305_Secure-Software-Report
+# CS-305_Software-Security
 
 ## Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
 In this scenario, I work for a software engineering company named Global Rain (GR). A consulting company that develops individualized financial plans for their customers named Artemis Financial (AF) has delegated GR with the task of creating custom, secure RESTful web application programming interface (API). This API will handle sensitive data concerning savings, retirement, investments, and insurance. GR must identify and address any existing security vulnerabilities. Specifically, GR must add a file verification step to ensure secure communications in the form of a checksum. 
